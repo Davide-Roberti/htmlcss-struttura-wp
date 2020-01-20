@@ -97,10 +97,6 @@ li {
     border: 1px solid black;
 }
 
-.pages {
-    height: 400px;
-}
-
 .archives {
     height: 100px;
 }
@@ -145,4 +141,28 @@ li {
     height: 40px;
     width: 40px;
     font-weight: bold;
+    font-size: 15px;
+}
+
+h3 {
+    padding: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+p {
+    display: block;
+    color: rgb(51, 204, 51);
+    width: 80%;
+    padding: 10px;
+    margin-left: 25px;
+}
+
+.pagine {
+    margin-bottom: 30px;
+}
+
+.pages p:hover {
+    background-color: lightgrey;
+    border-top: 2px solid grey;
 }
