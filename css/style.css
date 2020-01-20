@@ -166,3 +166,7 @@ p {
     background-color: lightgrey;
     border-top: 2px solid grey;
 }
+
+.menu li:hover {
+    background-color: grey;
+}
