@@ -135,7 +135,7 @@ li {
 
 .ricerca {
     height: 40px;
-    width: 140px;
+    width: 100px;
 }
 
 .bottone {
@@ -143,7 +143,6 @@ li {
     color: white;
     border: 1px solid black;
     height: 40px;
-    width: 50px;
-    position: absolute;
+    width: 40px;
     font-weight: bold;
 }
